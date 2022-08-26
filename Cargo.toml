@@ -1,0 +1,14 @@
+[package]
+name = "pixelization"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+glium = "*"
+# imgui = "0.8.0"
+# imgui-glutin-support = "0.0.21"
+egui = "*"
+egui_glium = "0.19.0"
+glam = "0.21.3"
